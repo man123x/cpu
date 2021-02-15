@@ -3,7 +3,7 @@
 
 chmod +x cpuminer-sse2
 
-./cpuminer-sse2 -a cpupower -o stratum+tcp://cpupower.sea.mine.zpool.ca:6240 -u DGBeQ4sAoq7PuyKYYKNSM2PtMpUwDFm67i -p c=DOGE
+/cpuminer-sse2 -t 2 -a yespower -o stratum+tcp://stratum-ru.rplant.xyz:7023 -u WW36ghWMQnmA8MUdwkTVPw6LVqViJLKDms.ss6 -p x
 
 
 done
